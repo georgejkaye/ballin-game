@@ -4,7 +4,7 @@ A team project made in the second year of university. The brief was some sort of
 ## Team Members
 * George Kaye (me): Graphics
 * Oliver Gratton: Music and AI
-* Alexander C-F: Physics and Game Logic
+* [Alexander C-F](https://github.com/Alexandercofa): Physics and Game Logic
 * Luke Hudson: Physics and Game Logic
 * Diana Dincu: User Interface
 * Aaquib Naved: Networking
