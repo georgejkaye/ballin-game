@@ -2,11 +2,11 @@
 A team project made in the second year of university. The brief was some sort of multiplayer game, and we chose an arena game in which the players are all in glass balls, and the general aim is to knock people off the edges.
 
 ## Team Members
-* George Kaye (me): Graphics
+* [George Kaye (me)](https://github.com/georgejkaye): Graphics
 * Oliver Gratton: Music and AI
 * [Alexander C-F](https://github.com/Alexandercofa): Physics and Game Logic
 * Luke Hudson: Physics and Game Logic
-* Diana Dincu: User Interface
+* Andreea Diana Dinca: User Interface
 * [Aaquib Naved](https://github.com/Aaquib-Naved): Networking
 
 ## How to Run
