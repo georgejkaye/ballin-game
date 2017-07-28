@@ -7,7 +7,7 @@ A team project made in the second year of university. The brief was some sort of
 * [Alexander C-F](https://github.com/Alexandercofa): Physics and Game Logic
 * Luke Hudson: Physics and Game Logic
 * Diana Dincu: User Interface
-* Aaquib Naved: Networking
+* [Aaquib Naved](https://github.com/Aaquib-Naved): Networking
 
 ## How to Run
 To run jar: 
